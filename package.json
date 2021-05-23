@@ -1,0 +1,15 @@
+{
+	"name": "com.glairedaggers.sonke",
+	"version": "0.1.0",
+	"displayName": "SonKE",
+	"description": "A framework for implementing Sonic Adventure style physics in Unity",
+	"unity": "2020.3",
+	"dependencies": {
+		"com.unity.inputsystem": "1.0.2",
+		"com.unity.cinemachine": "2.6.4"
+	},
+	"author": {
+		"name": "Hazel Stagner",
+		"url": "https://twitter.com/GlaireDaggers"
+	}
+}
