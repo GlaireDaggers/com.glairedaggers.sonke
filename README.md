@@ -7,7 +7,7 @@ to implement most or even very much of a full game's mechanics - it is designed 
 Sonic-style physics. That said, many example mechanics are included and can serve as guides for building your own.
 
 # Installation
-To install SonKE in a new Unity project, just open the Package Manager -> Add Package From Git URL and enter this repository's URL (git://github.com/GlaireDaggers/com.glairedaggers.sonke.git)
+To install SonKE in a new Unity project, just open the Package Manager -> Add Package From Git URL and enter this repository's URL (<git://github.com/GlaireDaggers/com.glairedaggers.sonke.git>)
 
 # Usage
 TODO
